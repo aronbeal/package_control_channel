@@ -588,6 +588,15 @@
 			]
 		},
 		{
+      "name": "Coder Format",
+      "details": "https://github.com/aronbeal/Sublime-Text-Coder-Format",
+      "releases": [
+        {
+          "details": "https://github.com/aronbeal/Sublime-Text-Coder-Format/tags"
+        }
+      ]
+    },
+		{
 			"name": "Coffee Formatter",
 			"details": "https://github.com/derekchiang/Sublime-CoffeeScript-Formatter",
 			"releases": [
